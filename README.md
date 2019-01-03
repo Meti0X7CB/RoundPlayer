@@ -1,4 +1,4 @@
 # EQClock
-An analog clock skin with equalizer, RAM, CPU and NET indicator.
+An analog clock skin with equalizer.
 
 ![](./Info.png)
