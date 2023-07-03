@@ -1,6 +1,8 @@
 # RoundPlayer
 A sleek Round player with audio Visualizer to control all your music. It supports all major music clients including Spotify, Apple Music, Youtube Music and many more.
 
+![1](https://github.com/Meti0X7CB/RoundPlayer/assets/8690114/523bcb55-91f0-4b35-b970-b38da4508302)
+
 ## Functionality
 
 Default look With audio Visualizer on, scaling of 0.8, primary color of white and highlight color of light green:
