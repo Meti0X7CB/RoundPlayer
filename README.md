@@ -21,7 +21,7 @@ Note: You can always change the scaling, color and highlight color as you desire
 ## Features
 - Interactive, responsive and fully scalable UI
 - Fully supports Spotify, Apple Music, Youtube Music, Soundcloud, and many web based clients
-- Stylis and customizable Media controls song progress bar and audio Visualizer 
+- Stylis and customizable Media controls, song progress bar and audio Visualizer 
 - Automatic activity detection to hide skin when no media is open and running
 ## Installation
 Download the latest version from [Releases](https://github.com/Meti0X7CB/RoundPlayer/releases) tab.
