@@ -3,13 +3,15 @@ A sleek Round player with audio Visualizer to control all your music. It support
 
 ## Functionality
 
-### With audio Visualizer:
+Default look With audio Visualizer on, scaling of 0.8, primary color of white and highlight color of light green:
 
 https://github.com/Meti0X7CB/RoundPlayer/assets/8690114/535d312a-b1e2-4627-aedb-0cca1aca4f31
 
-### Without audio Visualizer:
+Default look With audio Visualizer off and without changing other presets:
 
 https://github.com/Meti0X7CB/RoundPlayer/assets/8690114/991fde76-2cee-4ac5-bcef-79f180d744a8
+
+Note: You can always change the scaling, color and highlight color as you desire.
 
 ## Minimum Requirements:
 - Windows 10 or higher
