@@ -1,17 +1,14 @@
-[Variables]
-@include=#Scale#RoundPlayer + Visualizer.inc
-
 [MeasureAudio]
 Measure = Plugin
 Plugin = AudioLevel
 Port = Output
 FFTSize = 3072
 FFTOverlap = (3072/2)
-FFTAttack = 40
-FFTDecay = 80
-FreqMin = 40
-FreqMax = 10000
-Sensitivity = (150 - (#Scale# * 75))
+FFTAttack = 50
+FFTDecay = 100
+FreqMin = 20
+FreqMax = 20000
+Sensitivity = 35
 Bands = 57
 DynamicVariables = 1
 
