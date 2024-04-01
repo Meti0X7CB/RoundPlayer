@@ -1,528 +1,528 @@
-[Bar1]
+[MeterBand1]
 Meter = BitMap
 MeasureName = MeasureBand19
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.97863;-0.04233;0.04233;0.99863;0;0
-X = (206 * #VScale#)
-Y = (15 * #VScale#)
+X = (206*#Scale#)
+Y = (9*#Scale#)
 
-[Bar2]
+[MeterBand2]
 Meter = BitMap
 MeasureName = MeasureBand17
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.99652;-0.12553;0.12553;0.99652;0;0
-X = (179 * #VScale#)
-Y = (31 * #VScale#)
+X = (179*#Scale#)
+Y = (25*#Scale#)
 
-[Bar3]
+[MeterBand3]
 Meter = BitMap
 MeasureName = MeasureBand18
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.97815;-0.21891;0.21891;0.97815;0;0
-X = (155 * #VScale#)
-Y = (48 * #VScale#)
+X = (155*#Scale#)
+Y = (42*#Scale#)
 
-[Bar4]
+[MeterBand4]
 Meter = BitMap
 MeasureName = MeasureBand15
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.95105;-0.30902;0.30902;0.95105;0;0
-X = (130 * #VScale#)
-Y = (63 * #VScale#)
+X = (130*#Scale#)
+Y = (57*#Scale#)
 
-[Bar5]
+[MeterBand5]
 Meter = BitMap
 MeasureName = MeasureBand13
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.91354;-0.40673;0.40673;0.91354;0;0
-X = (102 * #VScale#)
-Y = (76 * #VScale#)
+X = (102*#Scale#)
+Y = (70*#Scale#)
 
-[Bar6]
+[MeterBand6]
 Meter = BitMap
 MeasureName = MeasureBand12
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.87454;-0.49503;0.49503;0.87454;0;0
-X = (74 * #VScale#)
-Y = (85 * #VScale#)
+X = (74*#Scale#)
+Y = (78*#Scale#)
 
-[Bar7]
+[MeterBand7]
 Meter = BitMap
 MeasureName = MeasureBand10
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.86602;-0.5952;0.5952;0.86602;0;0
-X = (44 * #VScale#)
-Y = (87 * #VScale#)
+X = (44*#Scale#)
+Y = (77*#Scale#)
 
-[Bar8]
+[MeterBand8]
 Meter = BitMap
 MeasureName = MeasureBand8
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.77714;-0.65932;0.65932;0.77714;0;0
-X = (16 * #VScale#)
-Y = (93 * #VScale#)
+X = (16*#Scale#)
+Y = (86*#Scale#)
 
-[Bar9]
+[MeterBand9]
 Meter = BitMap
 MeasureName = MeasureBand6
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.70711;-0.72711;0.72711;0.70711;0;0
-X = (-13 * #VScale#)
-Y = (95 * #VScale#)
+X = (-13*#Scale#)
+Y = (88*#Scale#)
 
-[Bar10]
+[MeterBand10]
 Meter = BitMap
 MeasureName = MeasureBand4
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.62932;-0.77714;0.77714;0.62932;0;0
-X = (-42 * #VScale#)
-Y = (95 * #VScale#)
+X = (-42*#Scale#)
+Y = (89*#Scale#)
 
-[Bar11]
+[MeterBand11]
 Meter = BitMap
 MeasureName = MeasureBand4
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.54464;-0.82867;0.82867;0.54464;0;0
-X = (-72 * #VScale#)
-Y = (92 * #VScale#)
+X = (-72*#Scale#)
+Y = (86*#Scale#)
 
-[Bar12]
+[MeterBand12]
 Meter = BitMap
 MeasureName = MeasureBand6
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.45399;-0.85101;0.85101;0.45399;0;0
-X = (-103 * #VScale#)
-Y = (90 * #VScale#)
+X = (-103*#Scale#)
+Y = (84*#Scale#)
 
-[Bar13]
+[MeterBand13]
 Meter = BitMap
 MeasureName = MeasureBand8
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.40673;-0.98054;0.98054;0.40673;0;0
-X = (-121 * #VScale#)
-Y = (69 * #VScale#)
+X = (-121*#Scale#)
+Y = (58*#Scale#)
 
-[Bar14]
+[MeterBand14]
 Meter = BitMap
 MeasureName = MeasureBand10
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.30901;-0.92655;0.92655;0.30901;0;0
-X = (-155 * #VScale#)
-Y = (68 * #VScale#)
+X = (-155*#Scale#)
+Y = (62*#Scale#)
 
-[Bar15]
+[MeterBand15]
 Meter = BitMap
 MeasureName = MeasureBand12
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.20791;-0.97814;0.97814;0.20791;0;0
-X = (-180 * #VScale#)
-Y = (47 * #VScale#)
+X = (-180*#Scale#)
+Y = (41*#Scale#)
 
-[Bar16]
+[MeterBand16]
 Meter = BitMap
 MeasureName = MeasureBand13
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.10453;-0.99452;0.99452;0.10453;0;0
-X = (-205 * #VScale#)
-Y = (28 * #VScale#)
+X = (-205*#Scale#)
+Y = (22*#Scale#)
 
-[Bar17]
+[MeterBand17]
 Meter = BitMap
 MeasureName = MeasureBand15
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.03133;-0.99863;0.99863;0.03133;0;0
-X = (-226 * #VScale#)
-Y = (13 * #VScale#)
+X = (-226*#Scale#)
+Y = (7*#Scale#)
 
-[Bar18]
+[MeterBand18]
 Meter = BitMap
 MeasureName = MeasureBand17
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.09233;-0.99863;0.99863;-0.09233;0;0
-X = (-248 * #VScale#)
-Y = (-15 * #VScale#)
+X = (-248*#Scale#)
+Y = (-21*#Scale#)
 
-[Bar19]
+[MeterBand19]
 Meter = BitMap
 MeasureName = MeasureBand19
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.16791;-0.97814;0.97814;-0.16791;0;0
-X = (-267 * #VScale#)
-Y = (-34 * #VScale#)
+X = (-267*#Scale#)
+Y = (-40*#Scale#)
 
-[Bar20]
+[MeterBand20]
 Meter = BitMap
 MeasureName = MeasureBand31
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.25901;-0.95105;0.95105;-0.25901;0;0
-X = (-285 * #VScale#)
-Y = (-59 * #VScale#)
+X = (-285*#Scale#)
+Y = (-65*#Scale#)
 
-[Bar21]
+[MeterBand21]
 Meter = BitMap
 MeasureName = MeasureBand29
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.35836;-0.93358;0.93358;-0.35836;0;0
-X = (-294 * #VScale#)
-Y = (-87 * #VScale#)
+X = (-294*#Scale#)
+Y = (-93*#Scale#)
 
-[Bar22]
+[MeterBand22]
 Meter = BitMap
 MeasureName = MeasureBand28
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.46673;-0.91354;0.91354;-0.46673;0;0
-X = (-297 * #VScale#)
-Y = (-117 * #VScale#)
+X = (-297*#Scale#)
+Y = (-123*#Scale#)
 
-[Bar23]
+[MeterBand23]
 Meter = BitMap
 MeasureName = MeasureBand27
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.54464;-0.83867;0.83867;-0.54464;0;0
-X = (-312 * #VScale#)
-Y = (-149 * #VScale#)
+X = (-312*#Scale#)
+Y = (-155*#Scale#)
 
-[Bar24]
+[MeterBand24]
 Meter = BitMap
 MeasureName = MeasureBand26
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.59778;-0.80901;0.80901;-0.59778;0;0
-X = (-319 * #VScale#)
-Y = (-166 * #VScale#)
+X = (-319*#Scale#)
+Y = (-172*#Scale#)
 
-[Bar25]
+[MeterBand25]
 Meter = BitMap
 MeasureName = MeasureBand25
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.66913;-0.74314;0.74314;-0.66913;0;0
-X = (-324 * #VScale#)
-Y = (-197 * #VScale#)
+X = (-324*#Scale#)
+Y = (-203*#Scale#)
 
-[Bar26]
+[MeterBand26]
 Meter = BitMap
 MeasureName = MeasureBand24
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.74314;-0.66913;0.66913;-0.74314;0;0
-X = (-323 * #VScale#)
-Y = (-230 * #VScale#)
+X = (-323*#Scale#)
+Y = (-236*#Scale#)
 
-[Bar27]
+[MeterBand27]
 Meter = BitMap
 MeasureName = MeasureBand23
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.80901;-0.58775;0.58775;-0.80901;0;0
-X = (-318 * #VScale#)
-Y = (-262 * #VScale#)
+X = (-318*#Scale#)
+Y = (-268*#Scale#)
 
-[Bar28]
+[MeterBand28]
 Meter = BitMap
 MeasureName = MeasureBand22
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.86602;-0.5;0.5;-0.86602;0;0
-X = (-310 * #VScale#)
-Y = (-294 * #VScale#)
+X = (-310*#Scale#)
+Y = (-300*#Scale#)
 
-[Bar29]
+[MeterBand29]
 Meter = BitMap
 MeasureName = MeasureBand29
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.91354;-0.40673;0.40673;-0.87354;0;0
 TransformationMatrix = -0.91354;-0.40673;0.40673;-0.87354;0;0
-X = (-303 * #VScale#)
-Y = (-334 * #VScale#)
+X = (-303*#Scale#)
+Y = (-340*#Scale#)
 
-[Bar30]
+[MeterBand30]
 Meter = BitMap
 MeasureName = MeasureBand28
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.95458;-0.35836;0.35836;-0.95458;0;0
-X = (-291 * #VScale#)
-Y = (-337 * #VScale#)
+X = (-291*#Scale#)
+Y = (-343*#Scale#)
 
-[Bar31]
+[MeterBand31]
 Meter = BitMap
 MeasureName = MeasureBand21
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.99092;-0.25882;0.25882;-0.99092;0;0
-X = (-274 * #VScale#)
-Y = (-364 * #VScale#)
+X = (-274*#Scale#)
+Y = (-370*#Scale#)
 
-[Bar32]
+[MeterBand32]
 Meter = BitMap
 MeasureName = MeasureBand22
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.98769;-0.15643;0.15643;-0.98769;0;0
-X = (-263 * #VScale#)
-Y = (-396 * #VScale#)
+X = (-263*#Scale#)
+Y = (-402*#Scale#)
 
-[Bar33]
+[MeterBand33]
 Meter = BitMap
 MeasureName = MeasureBand23
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.99863;-0.05233;0.05233;-0.99863;0;0
-X = (-241 * #VScale#)
-Y = (-421 * #VScale#)
+X = (-241*#Scale#)
+Y = (-427*#Scale#)
 
-[Bar34]
+[MeterBand34]
 Meter = BitMap
 MeasureName = MeasureBand24
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.99863;0.04033;-0.04033;-0.99863;0;0
-X = (-222 * #VScale#)
-Y = (-442 * #VScale#)
+X = (-222*#Scale#)
+Y = (-448*#Scale#)
 
-[Bar35]
+[MeterBand35]
 Meter = BitMap
 MeasureName = MeasureBand25
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.98769;0.11643;-0.11643;-0.98769;0;0
-X = (-207 * #VScale#)
-Y = (-459 * #VScale#)
+X = (-207*#Scale#)
+Y = (-465*#Scale#)
 
-[Bar36]
+[MeterBand36]
 Meter = BitMap
 MeasureName = MeasureBand26
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.96592;0.25882;-0.25882;-0.96592;0;0
-X = (-162 * #VScale#)
-Y = (-482 * #VScale#)
+X = (-162*#Scale#)
+Y = (-488*#Scale#)
 
-[Bar37]
+[MeterBand37]
 Meter = BitMap
 MeasureName = MeasureBand27
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.95105;0.30902;-0.30902;-0.95105;0;0
-X = (-153 * #VScale#)
-Y = (-490 * #VScale#)
+X = (-153*#Scale#)
+Y = (-496*#Scale#)
 
-[Bar38]
+[MeterBand38]
 Meter = BitMap
 MeasureName = MeasureBand28
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.91354;0.40673;-0.40673;-0.91354;0;0
-X = (-122 * #VScale#)
-Y = (-503 * #VScale#)
+X = (-122*#Scale#)
+Y = (-509*#Scale#)
 
-[Bar39]
+[MeterBand39]
 Meter = BitMap
 MeasureName = MeasureBand29
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.86602;0.5;-0.5;-0.86602;0;0
-X = (-89 * #VScale#)
-Y = (-513 * #VScale#)
+X = (-89*#Scale#)
+Y = (-519*#Scale#)
 
-[Bar40]
+[MeterBand40]
 Meter = BitMap
 MeasureName = MeasureBand30
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.80901;0.58775;-0.58775;-0.80901;0;0
-X = (-56 * #VScale#)
-Y = (-520 * #VScale#)
+X = (-56*#Scale#)
+Y = (-526*#Scale#)
 
-[Bar41]
+[MeterBand41]
 Meter = BitMap
 MeasureName = MeasureBand31
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.74314;0.66913;-0.66913;-0.74314;0;0
-X = (-22 * #VScale#)
-Y = (-524 * #VScale#)
+X = (-22*#Scale#)
+Y = (-530*#Scale#)
 
-[Bar42]
+[MeterBand42]
 Meter = BitMap
 MeasureName = MeasureBand32
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.70711;0.70711;-0.70711;-0.70711;0;0
-X = (-12 * #VScale#)
-Y = (-524 * #VScale#)
+X = (-12*#Scale#)
+Y = (-530*#Scale#)
 
-[Bar43]
+[MeterBand43]
 Meter = BitMap
 MeasureName = MeasureBand33
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.62932;0.77714;-0.77714;-0.62932;0;0
-X = (22 * #VScale#)
-Y = (-522 * #VScale#)
+X = (22*#Scale#)
+Y = (-528*#Scale#)
 
-[Bar44]
+[MeterBand44]
 Meter = BitMap
 MeasureName = MeasureBand34
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.54464;0.83867;-0.83867;-0.54464;0;0
-X = (56 * #VScale#)
-Y = (-517 * #VScale#)
+X = (56*#Scale#)
+Y = (-523*#Scale#)
 
-[Bar45]
+[MeterBand45]
 Meter = BitMap
 MeasureName = MeasureBand35
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.45399;0.89101;-0.89101;-0.45399;0;0
-X = (88 * #VScale#)
-Y = (-509 * #VScale#)
+X = (88*#Scale#)
+Y = (-515*#Scale#)
 
-[Bar46]
+[MeterBand46]
 Meter = BitMap
 MeasureName = MeasureBand36
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.35836;0.93358;-0.93358;-0.35836;0;0
-X = (119 * #VScale#)
-Y = (-497 * #VScale#)
+X = (119*#Scale#)
+Y = (-503*#Scale#)
 
-[Bar47]
+[MeterBand47]
 Meter = BitMap
 MeasureName = MeasureBand37
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.30901;0.97105;-0.97105;-0.30901;0;0
-X = (128 * #VScale#)
-Y = (-482 * #VScale#)
+X = (128*#Scale#)
+Y = (-488*#Scale#)
 
-[Bar48]
+[MeterBand48]
 Meter = BitMap
 MeasureName = MeasureBand38
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.20791;0.97814;-0.97814;-0.20791;0;0
-X = (157 * #VScale#)
-Y = (-474 * #VScale#)
+X = (157*#Scale#)
+Y = (-480*#Scale#)
 
-[Bar49]
+[MeterBand49]
 Meter = BitMap
 MeasureName = MeasureBand39
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.10453;0.99452;-0.99452;-0.10453;0;0
-X = (185 * #VScale#)
-Y = (-455 * #VScale#)
+X = (185*#Scale#)
+Y = (-461*#Scale#)
 
-[Bar50]
+[MeterBand50]
 Meter = BitMap
 MeasureName = MeasureBand40
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = -0.02233;0.99863;-0.99863;-0.02233;0;0
-X = (203 * #VScale#)
-Y = (-439 * #VScale#)
+X = (203*#Scale#)
+Y = (-445*#Scale#)
 
-[Bar51]
+[MeterBand51]
 Meter = BitMap
 MeasureName = MeasureBand41
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.08233;0.99863;-0.99863;0.08233;0;0
-X = (226 * #VScale#)
-Y = (-415 * #VScale#)
+X = (226*#Scale#)
+Y = (-421*#Scale#)
 
-[Bar52]
+[MeterBand52]
 Meter = BitMap
 MeasureName = MeasureBand42
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.18791;0.97814;-0.97814;0.18791;0;0
-X = (249 * #VScale#)
-Y = (-390 * #VScale#)
+X = (249*#Scale#)
+Y = (-396*#Scale#)
 
-[Bar53]
+[MeterBand53]
 Meter = BitMap
 MeasureName = MeasureBand43
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.26881;0.96592;-0.96592;0.26881;0;0
-X = (259 * #VScale#)
-Y = (-367 * #VScale#)
+X = (259*#Scale#)
+Y = (-373*#Scale#)
 
-[Bar54]
+[MeterBand54]
 Meter = BitMap
 MeasureName = MeasureBand44
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.35836;0.93358;-0.93358;0.35836;0;0
-X = (273 * #VScale#)
-Y = (-341 * #VScale#)
+X = (273*#Scale#)
+Y = (-347*#Scale#)
 
-[Bar55]
+[MeterBand55]
 Meter = BitMap
 MeasureName = MeasureBand45
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.45399;0.89101;-0.89101;0.45399;0;0
-X = (286 * #VScale#)
-Y = (-311 * #VScale#)
+X = (286*#Scale#)
+Y = (-317*#Scale#)
 
-[Bar56]
+[MeterBand56]
 Meter = BitMap
 MeasureName = MeasureBand46
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.52464;0.83867;-0.83867;0.52464;0;0
-X = (296 * #VScale#)
-Y = (-287 * #VScale#)
+X = (296*#Scale#)
+Y = (-293*#Scale#)
 
-[Bar57]
+[MeterBand57]
 Meter = BitMap
 MeasureName = MeasureBand47
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.58778;0.80901;-0.80901;0.58778;0;0
-X = (293 * #VScale#)
-Y = (-264 * #VScale#)
+X = (293*#Scale#)
+Y = (-270*#Scale#)
 
-[Bar58]
+[MeterBand58]
 Meter = BitMap
 MeasureName = MeasureBand48
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.66913;0.74314;-0.74314;0.66913;0;0
-X = (297 * #VScale#)
-Y = (-231 * #VScale#)
+X = (297*#Scale#)
+Y = (-237*#Scale#)
 
-[Bar59]
+[MeterBand59]
 Meter = BitMap
 MeasureName = MeasureBand49
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.74314;0.66913;-0.66913;0.74314;0;0
-X = (298 * #VScale#)
-Y = (-198 * #VScale#)
+X = (298*#Scale#)
+Y = (-204*#Scale#)
 
-[Bar60]
+[MeterBand60]
 Meter = BitMap
 MeasureName = MeasureBand50
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.80901;0.58775;-0.58775;0.80901;0;0
-X = (297 * #VScale#)
-Y = (-166 * #VScale#)
+X = (297*#Scale#)
+Y = (-172*#Scale#)
 
-[Bar61]
+[MeterBand61]
 Meter = BitMap
 MeasureName = MeasureBand44
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.86602;0.5;-0.5;0.86602;0;0
-X = (292 * #VScale#)
-Y = (-134 * #VScale#)
+X = (292*#Scale#)
+Y = (-140*#Scale#)
 
-[Bar62]
+[MeterBand62]
 Meter = BitMap
 MeasureName = MeasureBand42
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.97101;0.45399;-0.45399;0.97101;0;0
-X = (263 * #VScale#)
-Y = (-103 * #VScale#)
+X = (263*#Scale#)
+Y = (-114*#Scale#)
 
-[Bar63]
+[MeterBand63]
 Meter = BitMap
 MeasureName = MeasureBand40
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.90105;0.30902;-0.30902;0.90105;0;0
-X = (285 * #VScale#)
-Y = (-78 * #VScale#)
+X = (285*#Scale#)
+Y = (-84*#Scale#)
 
-[Bar64]
+[MeterBand64]
 Meter = BitMap
 MeasureName = MeasureBand38
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.94592;0.25882;-0.25882;0.94592;0;0
-X = (263 * #VScale#)
-Y = (-60 * #VScale#)
+X = (263*#Scale#)
+Y = (-66*#Scale#)
 
-[Bar65]
+[MeterBand65]
 Meter = BitMap
 MeasureName = MeasureBand36
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.98769;0.15643;-0.15643;0.98769;0;0
-X = (241 * #VScale#)
-Y = (-32 * #VScale#)
+X = (241*#Scale#)
+Y = (-38*#Scale#)
 
-[Bar66]
+[MeterBand66]
 Meter = BitMap
 MeasureName = MeasureBand34
-MeterStyle = MeterVisualizer
+MeterStyle = BandStyle
 TransformationMatrix = 0.99863;0.05233;-0.05233;0.99863;0;0
-X = (222 * #VScale#)
-Y = (-6 * #VScale#)
+X = (222*#Scale#)
+Y = (-12*#Scale#)

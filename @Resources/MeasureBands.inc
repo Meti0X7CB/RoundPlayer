@@ -2,15 +2,18 @@
 Measure = Plugin
 Plugin = AudioLevel
 Port = Output
-FFTSize = 3072
-FFTOverlap = (3072/2)
-FFTAttack = 50
-FFTDecay = 100
-FreqMin = 20
-FreqMax = 20000
-Sensitivity = 35
+FFTSize = 2048
+FFTAttack = 75
+FFTDecay = 150
+Sensitivity = 30
 Bands = 57
-DynamicVariables = 1
+
+[MeasureBand0]
+Measure = Plugin
+Plugin = AudioLevel
+Parent = MeasureAudio
+Type = Band
+BandIdx = 0
 
 [MeasureBand1]
 Measure = Plugin
