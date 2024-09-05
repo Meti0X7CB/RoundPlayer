@@ -1,11 +1,11 @@
 # RoundPlayer
 A round player with audio visualizer to control your music. It supports all major music clients including Spotify, Apple Music, Youtube Music and many more.
 
-![RoundPlayer](https://github.com/Meti0X7CB/RoundPlayer/assets/8690114/11f63f89-1166-498a-b570-55db37991fec)
+![Screenshot 2024-09-05 094136](https://github.com/user-attachments/assets/73cdd41a-22f4-4eab-85e3-ecb2dc61f380)
 
 ## Minimum Requirements:
 - Windows 11
-- Rainmeter 4.5.18
+- Rainmeter 4.5.20
 ## Features
 - Scalable UI
 - SMTC support
@@ -27,6 +27,3 @@ The following applications don't fully make use of Window's SMTC API, however th
 
 [MusicBee](https://github.com/ameer1234567890/mb_MediaControl), [AIMP](https://www.aimp.ru/?do=catalog&rec_id=1097
 ), [DeaDBeeF](https://github.com/DeaDBeeF-for-Windows/ddb_smtc), [iTunes](https://github.com/thewizrd/iTunes-SMTC), [VLC](https://github.com/spmn/vlc-win10smtc), [Winamp](https://github.com/NanMetal/gen_smtc), [MPV](https://github.com/x0wllaar/MPV-SMTC), [Netease Cloud Music](https://github.com/BetterNCM/InfinityLink)
-
-## Credits
-Special thanks to [keifufu](https://github.com/keifufu) and [tjhrulz](https://github.com/tjhrulz/) for the WebNowPlaying plugin and a big thank you to [TheAzack9](https://github.com/TheAzack9) and [khanhas](https://github.com/khanhas) for the FrostedGlass plugin.
